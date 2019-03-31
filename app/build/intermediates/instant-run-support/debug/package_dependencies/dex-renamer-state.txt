@@ -1,0 +1,7 @@
+#Sat Mar 30 01:38:05 ICT 2019
+base.0=D\:\\KULIAH\\SEMESTER 6\\ANDROID\\MODUL 4\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\10
+path.1=classes2.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=D\:\\KULIAH\\SEMESTER 6\\ANDROID\\MODUL 4\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\10

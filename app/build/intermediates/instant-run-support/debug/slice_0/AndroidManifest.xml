@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+      package="com.example.kendryayu.kendryayu_1202160048_si4008_pab_modul4"
+      android:versionCode="1"
+      android:versionName="1.0"
+      split="lib_slice_0_apk">
+</manifest>
